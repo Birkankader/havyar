@@ -1,0 +1,20 @@
+<dependency>
+    <groupId>tr.com.havelsan.tmap</groupId>
+    <artifactId>tmapj-core-obfuscated</artifactId>
+    <version>4.0.0-RC16 </version>
+</dependency>
+<dependency>
+    <groupId>tr.com.havelsan.tmap</groupId>
+    <artifactId>tmapj-core-data</artifactId>
+    <version>4.0.0-RC16 </version>
+</dependency>
+<dependency>
+    <groupId>tr.com.havelsan.tmap</groupId>
+    <artifactId>tmap-symb-data</artifactId>
+    <version>4.0.0-RC16 </version>
+</dependency>
+<dependency>
+    <groupId>tr.com.havelsan.tmap</groupId>
+    <artifactId>tmap-navigation-obfuscated</artifactId>
+    <version>4.0.0-RC16</version>
+</dependency>
